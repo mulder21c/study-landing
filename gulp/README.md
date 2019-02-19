@@ -1,6 +1,6 @@
-# Gulp for Begginers
+# Gulp for Beginners
 
-[Gulp for Begginers Repository](https://github.com/mulder21c/gulp-study) &mdash; 스터디 참여자만 접속 가능합니다.
+[Gulp for Beginners Repository](https://github.com/mulder21c/gulp-study) &mdash; 스터디 참여자만 접속 가능합니다.
 
 
 
