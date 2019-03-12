@@ -15,6 +15,14 @@
 - (중요) Command Line Interface에 거부감이 없는 이
 - "나 개발자야~" 티 내보고 싶은 이(?)
 
+## Why Git CLI?
+
+- Git은 기본적으로 CLI 형태의 터미널을 사용하도록 고안
+- Git의 모든 기능을 지원하는 것은 CLI 뿐 (공식문서)
+- CLI는 별도의 툴이 필요하지 않다. 그저 terminal만 열면 될 뿐.
+- GUI는 툴이 바뀌면 새로 사용법을 익혀야 하지만, CLI는 그럴 이유가 없다. terminal은 terminal이니까.
+- 당연히(?) 그래픽을 사용하지 않으므로 GUI에 비해 빠르다.
+
 ### 이 학습에 적절하지 않은 분
 
 - Git을 `commit`/`checkout`/`push`/`pull` 정도의 간단한 수준만이 필요한 이
