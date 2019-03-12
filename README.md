@@ -1,7 +1,7 @@
 # Study List
 
 ## Git CLI Study
-  [중단]
+  [View](../../tree/master/git)
 
 ## Gulp for Beginners
   [View](../../tree/master/gulp)
