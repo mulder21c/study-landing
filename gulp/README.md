@@ -85,3 +85,4 @@ Front-End Roadmap 2019 상 중간 즈음에 있는 Task Runners 중 Gulp를 학�
   + Optimzing Image Task - 이미지 최적화 자동화
   + Incremental Builds - 증분 빌드 구성
   + Clean Building Task - 최종 프로덕트 빌드 자동화
+- Workshop (자유)
