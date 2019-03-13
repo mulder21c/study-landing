@@ -1,8 +1,5 @@
 # Gulp for Beginners
 
-[Gulp for Beginners Repository](https://github.com/mulder21c/gulp-study) &mdash; 스터디 참여자만 접속 가능합니다.
-
-
 
 ![Front-End Roadmap](images/fed-roadmap-taskrunner.jpg)
 
@@ -10,6 +7,13 @@
 
 Front-End Roadmap 2019 상 중간 즈음에 있는 Task Runners 중 Gulp를 학습합니다. <br>
 대다수 블로그나 강좌들이 3.0을 기준으로 하고 있고 4.0에 대한 강의 내용을 찾기 어려워서 4.0을 기준으로 준비했습니다.
+
+## 수업 자료
+
+[Gulp for Beginners Repository](https://github.com/mulder21c/gulp-study) &mdash; 스터디 참여자만 접속 가능합니다.
+
+- gitbook으로 작성된 문서가 제공됩니다. <br>
+  해당 문서의 사용 방법은 위 저장소의 README에 안내 되어 있습니다.
 
 ## 학습 목표
 

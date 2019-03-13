@@ -1,6 +1,11 @@
 # Git CLI<sup id="cli"><a href="#foot-cli">[1]</a></sup> for Beginners
 
+## 수업 자료
+
 [Git CLI for Beginners Repository](https://github.com/mulder21c/git-study) &mdash; 스터디 참여자만 접근 가능합니다.
+
+- 학습 자료는 reveal.js로 구현된 web slide와 gitbook으로 작성된 transcript 문서가
+  제공됩니다. <br>각각의 사용 방법은 위 저장소의 README에 안내 되어 있습니다.
 
 ## 학습 목표
 
