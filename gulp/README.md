@@ -35,21 +35,25 @@ Front-End Roadmap 2019 상 중간 즈음에 있는 Task Runners 중 Gulp를 학�
 
 - JavaScript
 
-  최소한 function 작성 방법은 알고 있어야 합니다. (Gulp task가 function으로 구성됩니다.) <br>
-  기본적인 ES 6 문법과 module에 대한 이해가 있으면 다루기가 수월합니다.
+  최소한 function 작성 방법은 알고 있어야 합니다. (Gulp task를 function으로 작성합니다.)
+
+  기본적인 ES 6 문법과 module에 대한 이해가 있다면, gulp를 이해하고 다루기가 좀 더 수월합니다.
 
 - terminal이 통합된 IDE (optional, but recommended)
 
   terminal이 통합된 IDE가 없는 경우 손에 익은 에디터만 있어도 실습에는 문제가 없으나, 에디터와 터미널을 별도로
-  열어두고 사용해야 합니다. <br>
+  열어두고 사용해야 합니다.
+
   설명을 위한 시연(?)은 Visual Studio Code(Git bash as integrated shell) for Windows로 이루어집니다.
 
-- CLI (Command Line Interface)
+- CLI (Command Line Interface)와 친해지기
 
   대다수의 명령이 CLI를 통해 이루어지기 때문에 CLI 사용에 대한 거부감이 없어야 합니다. <br>
   기본적인 terminal 명령어(`ls`, `cd` 등)를 알아두시면 좋습니다.
 
-- English
+  간단한 terminal 명령어는 [Git CLI for Begginers &mdash; 필요 사전 지식](https://github.com/mulder21c/study-landing/tree/master/git#%ED%95%84%EC%9A%94-%EC%82%AC%EC%A0%84-%EC%A7%80%EC%8B%9D)에서 볼 수 있습니다.
+
+- English와 친해지기
 
   너무나 당연하게(?) 영어로 된 기술문서를 읽는데 거부감이 없으셔야 합니다. <br>
   문제를 해결해 가는 과정에 영어 문서(매뉴얼)를 계속 찾아다닐 겁니다. 학습 자체에는 비중이 낮지만, 학습 이후
@@ -60,7 +64,6 @@ Front-End Roadmap 2019 상 중간 즈음에 있는 Task Runners 중 Gulp를 학�
 - 도입
   + 개요
   + Gulp란?
-  + 사전 요구 지식
   + 실습 준비
 - 설치
   + Node.js & NPM 설치

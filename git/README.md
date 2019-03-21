@@ -2,7 +2,8 @@
 
 ## 수업 자료
 
-[Git CLI for Beginners Repository](https://github.com/mulder21c/git-study) &mdash; 스터디 참여자만 접근 가능합니다.
+[Git CLI for Beginners Repository](https://github.com/mulder21c/git-study) &mdash;
+스터디 참여자만 접근 가능합니다.
 
 - 학습 자료는 reveal.js로 구현된 web slide와 gitbook으로 작성된 transcript 문서가
   제공됩니다. <br>각각의 사용 방법은 위 저장소의 README에 안내 되어 있습니다.
@@ -10,13 +11,14 @@
 ## 학습 목표
 
 - Git에 대한 개념 잡기
-- GUI 툴<sup id="gui"><a href="#foot-gui">[2]</a></sup>에 의존하지 않고 명령어 기반으로 Git 사용
+- GUI 툴<sup id="gui"><a href="#foot-gui">[2]</a></sup>에 의존하지 않고 명령어
+  기반으로 Git 사용
 - Terminal에서 바로 Git을 사용할 수 있는 기본 지식 함양
 
 ## 학습 대상
 
 - 버전 관리 자체가 뭔지 모르는 이
-- Git을 GUI로만 사용해본 이
+- Git을 GUI로만 사용해봤는데 이제는 CLI로 갈아타고 싶은 이
 - (중요) Command Line Interface에 거부감이 없는 이
 - "나 개발자야~" 티 내보고 싶은 이(?)
 
@@ -25,7 +27,8 @@
 - Git은 기본적으로 CLI 형태의 터미널을 사용하도록 고안
 - Git의 모든 기능을 지원하는 것은 CLI 뿐 (공식문서)
 - CLI는 별도의 툴이 필요하지 않다. 그저 terminal만 열면 될 뿐.
-- GUI는 툴이 바뀌면 새로 사용법을 익혀야 하지만, CLI는 그럴 이유가 없다. terminal은 terminal이니까.
+- GUI는 툴이 바뀌면 새로 사용법을 익혀야 하지만, CLI는 그럴 이유가 없다. terminal은
+  terminal이니까.
 - 당연히(?) 그래픽을 사용하지 않으므로 GUI에 비해 빠르다.
 
 ### 이 학습에 적절하지 않은 분
@@ -51,32 +54,41 @@
 
   > 실제로 "디렉토리 생성"이나 "파일(html 등) 생성"에 대한 설명이 bash로 되어 있을 때,
   > Windows 환경에만 익숙한 분들(마우스 클릭으로만 폴더나 파일을 만들어 본 분들) 다수가
-  > "디렉토리 생성", "파일 생성"을 하지 못한채 계속 생성을 어떻게 해야하는지 질문이
+  > "디렉토리 생성", "파일 생성"을 하지 못한 채 계속 생성을 어떻게 해야하는지 질문이
   > 들어오거나 스터디 이후에 해당 명령어를 어떻게 쓰라는 건지를 모르겠다는 질문이 더러
   > 들어옵니다.
 
   최소한으로 알고 있어야 하는 명령어는 다음과 같습니다.
 
   + 디렉토리 이동 : `cd`
+
     ```bash
     cd ..         # 상위 디렉토리 이동
     cd ./images   # 현재 디렉토리의 하위 images 디렉토리로 이동
     ```
+
   + 파일 목록 보기 : `ls`
+
     ```bash
     ls            # 현재 디렉토리의 파일 목록 보기
     ls -a         # 현재 디렉토리의 모든 파일 목록 보기 (숨김파일 포함)
     ```
+
   + 디렉토리 생성 : `mkdir`
+
     ```bash
     mkdir git-playground     #현재 디렉토리에 'git-example' 디렉토리 생성
     ```
+
   + 파일 삭제 : `rm`
+
     ```bash
     rm README.md          # README.md 파일 삭제
     rm ./images/ -r       # images 디렉토리 삭제
     ```
+
   + 빈 파일 생성 : `touch`
+
     ```bash
     touch README.md       # 0byte README.md 파일 생성
     ```
@@ -99,9 +111,8 @@
   + Mac 사용자 분들은 terminal에서
   + Windows 사용자분들은
     - Git을 이미 설치한 분들은 Git Bash에서 또는,
-    - 웹브라우저에서 [Unix Terminal Online](http://www.tutorialspoint.com/unix_terminal_online.php)로 접속하여
-
-  연습해 보실 수 있습니다.
+    - 웹브라우저에서 [Unix Terminal Online](http://www.tutorialspoint.com/unix_terminal_online.php)로
+      접속하여 연습해 보실 수 있습니다.
 
 - English
 
