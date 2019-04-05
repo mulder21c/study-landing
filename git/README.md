@@ -218,11 +218,11 @@
 ---
 1. <a id="foot-cli" href="#cli">Command Line Interface</a>
 
-  명령 줄 인터페이스 (또는 명령어 인터페이스).  텍스트 터미널을 통해 작업을 진행하는 방법.
+    명령 줄 인터페이스 (또는 명령어 인터페이스).  텍스트 터미널을 통해 작업을 진행하는 방법.
 
-  windows의 경우는 명령 프롬프트, Mac, Linux등의 경우는 terminal이 이에 해당.
+    windows의 경우는 명령 프롬프트, Mac, Linux등의 경우는 terminal이 이에 해당.
 
 2. <a id="foot-gui" href="#gui">Graphic User Interface Tool</a>
 
-  마우스로 클릭, 드래그앤드롭으로 사용할 수있는 툴 <br>
-  SourceTree, GitHub Desktop, GitKraken 등등
+    마우스로 클릭, 드래그앤드롭으로 사용할 수있는 툴 <br>
+    SourceTree, GitHub Desktop, GitKraken 등등
